@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <tenMinutes>
+        <book title='Созвездие пса, Артур Кларк' genre='Фантастика'>
+			<link>https://libking.ru/books/sf-/sf-space/122771-artur-klark-sozvezdie-psa.html"</link>
+		</book>
+		<book title='Русские соболя, О. Генри' genre='Реализм'>
+			<link>"https://www.litmir.me/br/?b=21011"</link>
+		</book>
+		<book title='Не спешу, Сергей Лукьяненко' genre='Детектив'>
+			<link>"https://mir-knig.com/read_420649-1"</link>
+		</book>
+		<book title='Девушка в снегу, Андрэ Моруа' genre='Фэнтези'>
+			<link>"https://fantlab.ru/search-works?q=%D0%BC%D0%BE%D1%80%D1%83%D0%B0"</link>
+		</book>
+		<book title='Можно попросить Нину? Кир Булычев' genre='Драма'>
+			<link>"https://librebook.me/liudi_kak_liudi__sbornik/vol1/1"</link>
+		</book>
+    </tenMinutes>
+	<twentyMinutes>
+        <book title='Я искал тебя,искал, Ирвин Шоу' genre='Драма'>
+			<link>"https://www.litmir.me/br/?b=72205"</link>
+		</book>
+		<book title='Генезис и катастрофа, Роальд Даль' genre='Фантастика'>
+			<link>"https://libking.ru/books/sf-/sf/11832-roald-dal-genezis-i-katastrofa.html"</link>
+		</book>
+		<book title='Яйцо, Энди Вейер' genre='Философия'>
+			<link>"https://www.litmir.me/br/?b=258011"</link>
+		</book>
+		<book title='Шоколадные зайчики, Андрей Рубанов' genre='Детектив'>
+			<link>"https://iknigi.net/avtor-andrey-rubanov/60509-stydnye-podvigi-sbornik-andrey-rubanov/read/page-5.html"</link>
+		</book>
+		<book title='И грянул гром, Рэй Брэдбери' genre='Фэнтези'>
+			<link>"https://raybradbury.ru/library/story/52/8/1"</link>
+		</book>
+		<book title='Весна в Фиальте, Владимир Набоков' genre='Реализм'>
+			<link>"https://librebook.me/vesna_v_fialte"</link>
+		</book>
+		<book title='Отзвуки века джаза, Фицджеральд' genre='Реализм'>
+			<link>"http://lib.ru/INPROZ/FITSDZHERALD/jazz_age.txt"</link>
+		</book>
+    </twentyMinutes>
+	<thirtyMinutes>
+        <book title='Коса, Рэй Брэдбэри' genre='Фэнтези'>
+			<link>"https://raybradbury.ru/library/story/43/6/2/"</link>
+		</book>
+		<book title='После бала, Лев Толстой' genre='Реализм'>
+			<link>"https://ilibrary.ru/text/1005/p.1/index.html"</link>
+		</book>
+		<book title='Аравия, Джеймс Джой' genre='Детектив'>
+			<link>"https://mir-knig.com/read_379303-1"</link>
+		</book>
+		<book title='Моно-но аварэ, Кен Лю' genre='Фантастика'>
+			<link>"https://www.litmir.me/br/?b=221078"</link>
+		</book>
+		<book title='Лекарство от меланхолии, Рэй Брэдбери' genre='Драма'>
+			<link>"https://raybradbury.ru/library/story/59/1/1"</link>
+		</book>
+		<book title='Хрупкие вещи, Нил Гейман' genre='Фэнтези'>
+			<link>"https://librebook.me/fragile_things__short_fictions_and_wonders/vol2/1"</link>
+		</book>
+    </thirtyMinutes>
+		<fourtyMinutes>
+		<book title='Аравия, Джеймс Джой' genre='Детектив'>
+			<link>"https://mir-knig.com/read_379303-1"</link>
+		</book>
+        <book title='Чай с птицами, Джоанн Харрис' genre='Реализм'>
+			<link>"https://www.litmir.me/br/?b=138775"</link>
+		</book>
+		<book title='Башня из пепла, Джордж Мартин' genre='Фэнтези'>
+			<link>"https://librebook.me/bashnia_pepla/vol1/1"</link>
+		</book>
+		<book title='Глаза голубой собаки, Габриэль Гарсия Маркис' genre='Фантастика'>
+			<link>"http://lib.ru/MARKES/sobaka.txt"</link>
+		</book>
+		<book title='Лекарство от меланхолии, Рэй Брэдбери' genre='Драма'>
+			<link>"https://raybradbury.ru/library/story/59/1/1"</link>
+		</book>
+    </fourtyMinutes>
+	<hour>
+        <book title='Фиалки по средам, Андре Моруа' genre='Реализм'>
+			<link>"https://www.litmir.me/br/?b=120882"</link>
+		</book>
+		<book title='Страшные любовные истории, Милорад Павич' genre='Фантастика'>
+			<link>"https://www.litmir.me/br/?b=21552"</link>
+		</book>
+		<book title='Башня из пепла, Джордж Мартин' genre='Фэнтези'>
+			<link>"https://librebook.me/bashnia_pepla/vol1/1"</link>
+		</book>
+		<book title='Лекарство от меланхолии, Рэй Брэдбери' genre='Драма'>
+			<link>"https://raybradbury.ru/library/story/59/1/1"</link>
+		</book>
+		<book title='Аравия, Джеймс Джой' genre='Детектив'>
+			<link>"https://mir-knig.com/read_379303-1"</link>
+		</book>
+    </hour>
+</books>
